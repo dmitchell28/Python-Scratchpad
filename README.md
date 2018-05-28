@@ -57,7 +57,7 @@ A curated list of links related to data analysis in python
 - [Mode Analytics Blog](https://blog.modeanalytics.com/) 
 - [Practical Business Python](http://pbpython.com/) 
 
-## Leaning & Educational
+## Learning & Educational
 
 - [Python Crash Course](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Links to a range of python cheatsheets.
 - [How to learn Python](http://www.cuemacro.com/2016/11/25/how-to-learn-python/) - Commentary and Links.
