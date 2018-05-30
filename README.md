@@ -5,14 +5,14 @@ A curated list of links related to data analysis in python
 
 ## Topics
 
-- [URLs to Selected Libraries](#ruby)
-- [Data Sources](#frameworks) 
-- [Money](#csharp)
-- [Python versus...](#reproducing-works)
-- [Data Science and ML Blogs](#reproducing-works)
-- [Learning and Educational](#reproducing-works)
-- [Tutuorial Notebooks from Github](#reproducing-works)
-
+- [URLs to Selected Libraries](#urls-to-selected-libraries)
+- [Visualization Libraries](#visualization-libraries)
+- [Data Sources](#data-sources) 
+- [Money](#money)
+- [Python versus XXX](#python-versus-xxx)
+- [Data Science and ML Blogs](#data-science-and-ml-blogs)
+- [Learning and Educational](#learning-and-educational)
+- [Tutorial Notebooks From Github](#tutorial-notebooks-from-github)
 
 
 ### URLs to Selected Libraries
@@ -26,6 +26,11 @@ A curated list of links related to data analysis in python
 - [ARCH](https://github.com/bashtage/arch) - ARCH models in Python
 - [statsmodels](http://statsmodels.sourceforge.net) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 
+### Visualization Libraries
+
+- [Matplotlib](https://matplotlib.org/) - The infamous port of the Matlab visualization libs
+- [Seaborn](https://seaborn.pydata.org/) - A more modern interface and look over Matplotlib
+- [Plotly](https://plot.ly/) - Often thought of as just an online service but also works through Jupyter
 
 ### Data Sources
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - truly awesome
@@ -34,17 +39,17 @@ A curated list of links related to data analysis in python
 
 ### Money
 
-- [2016 Data Scientist Salary Surey](http://www.oreilly.com/data/free/files/2016-data-science-salary-survey.pdf) - from O'Reilly
+- [2016 Data Scientist Salary Survey](http://www.oreilly.com/data/free/files/2016-data-science-salary-survey.pdf) - from O'Reilly
 
 
-### Python versus...
+### Python versus XXX
 
 - [R vs Python: Shrin Glander](https://shiring.github.io/r_vs_python/2017/01/22/R_vs_Py_post) - Side by Side comparison
 - [R vs Python for Data Science](https://www.kdnuggets.com/2015/05/r-vs-python-data-science.html) - from kdnuggets.com
 - [Python vs Matlab](http://www.pyzo.org/python_vs_matlab.html) - from a python developer's point of view
 
 
-## Data Science & ML Blogs
+## Data Science And ML Blogs
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/) - _ 
 	- [Essentials of ML Algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) - Python and R
@@ -57,8 +62,11 @@ A curated list of links related to data analysis in python
 - [10 things about Juypter Notebooks](http://nbviewer.jupyter.org/github/deepsense-ai/pydatawarsaw-notebooks/blob/master/presentation.ipynb) - presentation and code
 - [Mode Analytics Blog](https://blog.modeanalytics.com/) 
 - [Practical Business Python](http://pbpython.com/) 
+- [Towards Data Science](https://towardsdatascience.com/) - General repository of short to medium length articles covering a broad set of topics
+- [Data Skeptic Podcast](http://dataskeptic.com/) - Great podcast with long form discussion and short form intro episodes
+- [Software Engineering Daily Podcast](https://softwareengineeringdaily.com/category/podcast/) - Covers many areas of Software, much of it focused on ML related technologies
 
-## Learning & Educational
+## Learning And Educational
 
 - [Python Crash Course](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Links to a range of python cheatsheets.
 - [How to learn Python](http://www.cuemacro.com/2016/11/25/how-to-learn-python/) - Commentary and Links.
@@ -74,8 +82,11 @@ A curated list of links related to data analysis in python
 - [Book: The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf) - by Booz Allen
 - [Course: Google's Python Class](https://developers.google.com/edu/python/) 
 - [Course: Foundations of Data Science](http://data8.org/) - offered by UC Berkeley (free and open source)
+- [Course: Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning) - The original course, taking you from Linear regression through to an intro to Deep Nets
+- [Course: Andrew Ng's Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - 5 courses covering Deep Neural Nets
 
-### Tutorial Notebooks from Github
+
+### Tutorial Notebooks From Github
 
 - [Vander Plas: Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks) - Youtube video link:
 - [Fonnesback: Statistical analysis in python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial) - Youtube video [link](https://www.youtube.com/watch?v=DXPwSiRTxYY)
