@@ -54,7 +54,6 @@ A curated list of links related to data analysis in python
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/) - _ 
 	- [Essentials of ML Algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) - Python and R
 	- [Tutorial to Learn Data Science with Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/) - xpost with Educational
-	-
 - [Data Science Central](https://www.datasciencecentral.com/) - perform technical analysis of financial market data
 	- [ML, Data Science, AI, Deep Learnings, and Stats](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning) - post by Vincent Granville
 	- [9 Python Analytics Libraries](https://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1) - post by Vincent Granville
