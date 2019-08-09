@@ -64,6 +64,8 @@ A curated list of links related to data analysis in python
 - [Towards Data Science](https://towardsdatascience.com/) - General repository of short to medium length articles covering a broad set of topics
 - [Data Skeptic Podcast](http://dataskeptic.com/) - Great podcast with long form discussion and short form intro episodes
 - [Software Engineering Daily Podcast](https://softwareengineeringdaily.com/category/podcast/) - Covers many areas of Software, much of it focused on ML related technologies
+- [Data School](https://www.dataschool.io/) - Videos and Blogs for data wrangling and EDA.
+
 
 ## Learning And Educational
 
