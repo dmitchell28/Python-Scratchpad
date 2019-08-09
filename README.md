@@ -31,6 +31,7 @@ A curated list of links related to data analysis in python
 - [Matplotlib](https://matplotlib.org/) - The infamous port of the Matlab visualization libs
 - [Seaborn](https://seaborn.pydata.org/) - A more modern interface and look over Matplotlib
 - [Plotly](https://plot.ly/) - Often thought of as just an online service but also works through Jupyter
+- [Voila](https://github.com/QuantStack/voila) - Turn notebooks into web-apps
 
 ### Data Sources
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - truly awesome
