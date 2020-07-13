@@ -1,4 +1,4 @@
-# The DMitch Data Analysis List
+# The DMitch List: Python, Data Analysis, and ML Resources
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of links related to data analysis in python
