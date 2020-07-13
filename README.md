@@ -95,4 +95,4 @@ A curated list of links related to data analysis in python
 - [Fonnesback: Statistical analysis in python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial) - Youtube video [link](https://www.youtube.com/watch?v=DXPwSiRTxYY)
 - [Caudron: Statistical analysis in python](https://github.com/QCaudron/pydata_pandas) - Youtube video [link](https://youtu.be/F7sCL61Zqss)
 - [Practical Business Python](https://github.com/chris1610/pbpython) 
-- [Data Schools's top 25 pandas tricks](https://github.com/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb) 
+- [Data Schools's top 25 pandas tricks](https://github.com/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb) - Youtube video [link] (https://youtu.be/RlIiVeig3hc)
