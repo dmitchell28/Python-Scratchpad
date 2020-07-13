@@ -83,7 +83,6 @@ A curated list of links related to data analysis in python
 - [Book: Quant Equity Investing](http://jamescarl.github.io/CEN4020/assets/pdf/017.pdf) - by Frank Fabozzi et.al. via James Carl
 - [Book: The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf) - by Booz Allen
 - [Course: Google's Python Class](https://developers.google.com/edu/python/) 
-- [Course: Google's Python Class](https://developers.google.com/edu/python/) 
 - [Course: Bloombergs's ML Course](https://bloomberg.github.io/foml/#home) - Series of youtube videos & related slide decks
 - [Course: Foundations of Data Science](http://data8.org/) - offered by UC Berkeley (free and open source)
 - [Course: Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning) - The original course, taking you from Linear regression through to an intro to Deep Nets
