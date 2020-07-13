@@ -35,6 +35,7 @@ A curated list of links related to data analysis in python
 
 ### Data Sources
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - truly awesome
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
 
 
 
