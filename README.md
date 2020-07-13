@@ -83,6 +83,7 @@ A curated list of links related to data analysis in python
 - [Book: Quant Equity Investing](http://jamescarl.github.io/CEN4020/assets/pdf/017.pdf) - by Frank Fabozzi et.al. via James Carl
 - [Book: The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf) - by Booz Allen
 - [Course: Google's Python Class](https://developers.google.com/edu/python/) 
+- [Course: Google's Python Class](https://developers.google.com/edu/python/) 
 - [Course: Bloombergs's ML Course](https://bloomberg.github.io/foml/#home) - Series of youtube videos & related slide decks
 - [Course: Foundations of Data Science](http://data8.org/) - offered by UC Berkeley (free and open source)
 - [Course: Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning) - The original course, taking you from Linear regression through to an intro to Deep Nets
@@ -95,4 +96,4 @@ A curated list of links related to data analysis in python
 - [Fonnesback: Statistical analysis in python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial) - Youtube video [link](https://www.youtube.com/watch?v=DXPwSiRTxYY)
 - [Caudron: Statistical analysis in python](https://github.com/QCaudron/pydata_pandas) - Youtube video [link](https://youtu.be/F7sCL61Zqss)
 - [Practical Business Python](https://github.com/chris1610/pbpython) 
-- [Data Schools's top 25 pandas tricks](https://github.com/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb) - Youtube video [link] (https://youtu.be/RlIiVeig3hc)
+- [Data Schools's top 25 pandas tricks](https://github.com/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb) -  Youtube video [link](https://youtu.be/RlIiVeig3hc)
